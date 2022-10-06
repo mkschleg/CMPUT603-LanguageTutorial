@@ -6,12 +6,10 @@ The goal of this tutorial is to get you up and running using C++ and CMake to bu
 
 ## Installation
 
-First you need to install a compiler and CMake itself. In this tutorial we will use a C++17 compatible compiler (in this case Clang) and CMake v3. In my setup I use [Homebrew](https://brew.sh). For more details on how to install these packages for your specific system see the following:
+First you need to install a compiler and CMake itself. In this tutorial we will use a C++ compatible compiler (in this case Clang) and CMake v3. In my setup I use [Homebrew](https://brew.sh). For more details on how to install these packages for your specific system see the following:
 
 - Clang: https://clang.llvm.org
 - CMake: https://cmake.org
-
-
 
 ## Running the example
 
